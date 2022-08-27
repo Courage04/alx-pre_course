@@ -1,2 +1,2 @@
-README FILE HAS BEEN CREATED
+Readme file has been updated 
 
